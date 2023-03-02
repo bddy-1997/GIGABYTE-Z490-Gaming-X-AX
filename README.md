@@ -1,0 +1,2 @@
+# GIGABYTE-Z490-Gaming-X-AX
+黑苹果EFI
