@@ -1,3 +1,5 @@
+此EFI使用OpenCore引导完成！
+
 配置：
 
 CPU: 英特尔I5-10600K
